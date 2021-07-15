@@ -53,6 +53,6 @@ int main(void)
 	is_empty(s);
 
 
-	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	puts("Lets go"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
